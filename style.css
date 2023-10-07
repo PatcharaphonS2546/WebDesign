@@ -1,0 +1,94 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+.top-container{
+    position: relative;
+    background-color: #A8DF8E;
+    padding-top: 100px;
+}
+
+.intro{
+    margin: 0 auto 0 auto;
+    font-size: 2rem; /*100% = 16px = 1em */
+}s
+.intro p{
+    font-size: 2rem;
+}
+
+.mountain{
+    position: relative;
+}
+
+.top-cloud{
+    position: relative;
+    left: 30%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left:30%;
+}
+
+.profile-img{
+    width: 25%;
+    border-radius: 10%;
+}
+.profile{
+    background-color: #F3FDE8;
+    padding: 100px;
+}
+
+.skill{
+    padding: 100px;
+}
+
+.skill-row{
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+
+}
+
+.HTMLLogo{
+    width: 40%;
+    margin-right: 20px;
+   
+}
+
+.CSSLogo{
+    width: 30%;
+    margin-left: 20px;
+    
+}
+
+.JavaLogo{
+    width: 30%;
+    margin-right: 20px;
+    
+}
+
+hr{
+    margin: 0;
+}
+
+.middle-container{
+    background-color: #FFE5E5;
+}
+
+.bottom-container{
+    background-color: #FFBFBF;
+}
+
+p{
+    margin: 0;
+}
+.University{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
